@@ -64,6 +64,5 @@ These number might help to locate the appropriate projects. For additional mater
 60. .
 61. restcontroller postman
 62. project
-Java 8 features
 
 
